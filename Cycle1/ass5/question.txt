@@ -1,0 +1,1 @@
+Implement a desk calculator with the operators defined in assignment 2 along with named identifiers, assignment statements, if statement, logical expressions (&lt;, &gt;, ==, != for less than, greater than, equal to and not equal to as used in C language). Write a function “let” for initializing a variable and “display” to display the value of a variable or expression.

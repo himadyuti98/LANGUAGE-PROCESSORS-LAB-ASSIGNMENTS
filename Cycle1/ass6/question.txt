@@ -1,0 +1,1 @@
+Write a program to generate a symbol table using words in a given English text. Also include rules to recognise words like “can’t” as a single word. Use a normal table for storing words, their frequency and unique line numbers in which the word appears.

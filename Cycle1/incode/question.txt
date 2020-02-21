@@ -1,0 +1,16 @@
+Write flex and bison specifications to generate intermediate code in the form of three address code statements for a subset of C language with the following functionalities:
+
+ --Entire program consists of only main() function. There are no other functions.
+ --All identifiers are of integer (signed and unsigned) or float type only.
+ --All floats are represented as num.num
+ --In case of mixed mode, the integers are to be explicitly converted to floats.
+ --Variables, where ever necessary are initialized by assignment only. No values are explicitly read.
+ --Boolean values are considered like in C language
+ --Binary operators: +, -, *, /, % and @(exponentiation)
+ --Ternary Operator: ?:
+ --Assignment operators : =, +=, -=, *=, /=
+ --Relational operators: &lt;, &gt;, &lt;=, &gt;=, !=
+ --Logical operators: &amp;&amp;, ||, !
+ --Bitwise operators: |, &amp;, !
+ --Conditional statements: if(E)S; and if(E) S1; else S2;
+ --Iterative Constructs: while(E)S; and for(e1;e2;e3)S;

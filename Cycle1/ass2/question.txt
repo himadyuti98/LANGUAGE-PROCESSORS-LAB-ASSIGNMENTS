@@ -1,0 +1,1 @@
+Write flex specifications to convert an infix expression to postfix notation by constructing the corresponding expression tree. Use the binary operators +, -,*, /, @(exponentiation) and um (Unary Minus). Assume usual precedence and associativity rules for the operators. Note that some of the operator symbols are meta-characters in flex.
